@@ -1,17 +1,6 @@
-## GitHub 內建東西==
-- 👋 Hi, I’m @EricChangOwO
-- 👀 I’m interested in Python, PyTouch, AI Learning, and coding some ~~batch~~ files
-- 🌱 I’m currently learning PyTouch
-- 然後底下大部分都是 Fork 來的 目前我寫的專案只有 [ValorantUpdater](https://github.com/EricChangOwO/ValorantUpdater)
+## 嗨
+嗨 這裡大部分都是一些專案 沒有特別的限制 大多都是想寫就寫的
 
-## 之後目標：
-> WordPress / Dreamweaver 網頁設計
-> 
-> Discord js BOT
-> 
-> 最原始的 Discord py 專案
+可以看看 [ValorantBGChanger](https://github.com/EricChangOwO/ValorantUpdater)
 
-<!---
-EricChangOwO/EricChangOwO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+然後其他的就只有一些網頁而已 沒有特別開發其他東西
