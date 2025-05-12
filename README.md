@@ -10,10 +10,9 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, TypeScript, C++, Bash
-- **Web**: Node.js, Flask, Astro, React (learning), HTML/CSS
-- **Tools**: Git, Docker, VSCode, Nmap, Wireshark, Burp Suite
-- **OS**: Arch Linux (Hyprland), macOS, Windows
+- **Languages**: Python, C++, Bash, Windows Batch File
+- **Tools**: Git, Docker, VSCode, Nmap, Burp Suite
+- **OS**: Arch Linux with Hyprland, macOS, Windows
 
 ---
 
