@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Eric 👋</h1>
+<h1 >Hi, I'm Eric 👋</h1>
 
-<p align="center">
+<p>
   🎓 Info Management student @ NDHU<br>
   🔐 Passionate about Cybersecurity, Web Dev, and Automation<br>
   🧠 Currently exploring: CTFs, Linux Ricing, Flask, and React<br>
@@ -29,10 +29,3 @@
 - 🧑‍💻 GitHub: [@EricChangOwO](https://github.com/EricChangOwO)
 - 📬 Email: hirorui0405@gmail.com
 - 🌐 Blog: [blog.ichika.tw](https://blog.ichika.tw)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricChangOwO&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
