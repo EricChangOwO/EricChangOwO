@@ -1,7 +1,7 @@
 <h1 >Hi, I'm Eric 👋</h1>
 
 <p>
-  🎓 Info Management student @ NDHU<br>
+  🎓 Infomation Management Student @ NDHU<br>
   🔐 Passionate about Cybersecurity, Web Dev, and Automation<br>
   🧠 Currently exploring: CTFs, Linux Ricing, Flask, and React<br>
 </p>
